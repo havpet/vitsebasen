@@ -6,7 +6,7 @@ function getJoke() {
   $("#jokesform").on('submit', function(e) {
     e.preventDefault();
     $.ajax({
-      url: 'https://vitsebasen.no/backend/joke.php',
+      url: '/backend/joke.php',
       type: "GET",
       data: $(this).serialize(),
       success: function(result) {
