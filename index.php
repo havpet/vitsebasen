@@ -16,23 +16,18 @@
 <link rel="icon" href="/favicon.png" type="image/png" />
 <link rel="shortcut icon" href="/favicon.ico" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="I vitsebasen kan du finne mange typer vitser og gåter, etter dine egne kriterier">
-<meta name="keywords" content="vitser, blondine, blondine vitser, bra vitser, topp vitser" />
 
-<meta property="og:title" content="Vitsebasen" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="http://vitsebasen.no" />
-<meta property="og:description" content="En god latter forlenger livet! I vitsebasen kan du finne mange typer vitser og gåter, etter dine egne kriterier" />
-<meta property="og:image" content="http://vitsebasen.no/img/Thumblogo.jpg" />
+<meta property="og:image" content="" />
 
 
-  <title>Morsomme vitser - Vitsebasen</title>
+  <title></title>
 </head>
 <body>
   <div id="outer">
   <div id="wrapper">
     <div class="logo">
-      <a href="/"><img id="logoimg" alt="Vitsebasen vitser" src="img/logov2t.png" width="300" /></a>
+      <a href="/"><img id="logoimg" src="img/logov2t.png" width="300" /></a>
       <div id="top_button">
         <a onclick="toggleDiv();" href="#" id="top_buttona"> Skjul innstillinger</a> <span id="icon" class="glyphicon glyphicon-chevron-right"></span>
       </div>
@@ -118,7 +113,7 @@
 
   </div>
 </div>
-<div id="bottom">Havpet &copy; <?php echo date('Y'); ?></div>
+<div id="bottom"Havpet &copy; <?php echo date('Y'); ?></div>
 
 
 </body>
